@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.apkfuns.log2file:log2file-1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/log2file-1.0.0.aar/9238818dcb7df2e9471ebcae0a78098c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/log2file-1.0.0.aar/9238818dcb7df2e9471ebcae0a78098c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.apkfuns.log2file/log2file/1.0.0/38a14a50b96e7916d0b1915e6a1e349fe870b6d5/log2file-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

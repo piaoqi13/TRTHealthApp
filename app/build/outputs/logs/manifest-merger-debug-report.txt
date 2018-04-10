@@ -1,0 +1,146 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:design:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\c42ef66976bdee3928f5aed5ce7efa2d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.trello:rxlifecycle-components:0.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\rxlifecycle-components-0.4.0.aar\4afc32e5e0ee5a3a2acbb740f6ba310c\AndroidManifest.xml:13:1-19:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\ae48784832a673616cc86ee1c8937f83\AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:v1.9.3] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-v1.9.3.aar\ecc08fff160a70a1510100248dbc5cf7\AndroidManifest.xml:2:1-16:12
+MERGED from [io.reactivex:rxandroid:1.1.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\rxandroid-1.1.0.aar\48a0944905dbe6d136239110e3a9c856\AndroidManifest.xml:15:1-21:12
+MERGED from [com.trello:rxlifecycle:0.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\rxlifecycle-0.4.0.aar\4285fc98eeedd0219cd73e5b55d69743\AndroidManifest.xml:13:1-19:12
+MERGED from [com.jakewharton.rxbinding:rxbinding:0.3.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\rxbinding-0.3.0.aar\3c5e233235dc0c70ca67f2354ef633b3\AndroidManifest.xml:2:1-8:12
+MERGED from [com.apkfuns.logutils:library:1.5.1.1] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\library-1.5.1.1.aar\d1cf391ff5ef42087f1c22d7e07fa237\AndroidManifest.xml:2:1-14:12
+MERGED from [com.apkfuns.log2file:log2file:1.0.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\log2file-1.0.0.aar\19345aca7eac3ddb7e7258b369a8ab42\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\33e03cfc3266f1c59fdd5264d9f29189\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\398ff9408296af1dabfb540b8fe06b89\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\1120ad0a9e850cfc0f67f0e774c3bc4a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\84048b31ce02933fa098430bc5c9822a\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:8:5-28:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\c42ef66976bdee3928f5aed5ce7efa2d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\c42ef66976bdee3928f5aed5ce7efa2d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\ae48784832a673616cc86ee1c8937f83\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\ae48784832a673616cc86ee1c8937f83\AndroidManifest.xml:25:5-20
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:v1.9.3] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-v1.9.3.aar\ecc08fff160a70a1510100248dbc5cf7\AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:v1.9.3] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-v1.9.3.aar\ecc08fff160a70a1510100248dbc5cf7\AndroidManifest.xml:11:5-14:19
+MERGED from [com.apkfuns.logutils:library:1.5.1.1] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\library-1.5.1.1.aar\d1cf391ff5ef42087f1c22d7e07fa237\AndroidManifest.xml:11:5-12:19
+MERGED from [com.apkfuns.logutils:library:1.5.1.1] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\library-1.5.1.1.aar\d1cf391ff5ef42087f1c22d7e07fa237\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\33e03cfc3266f1c59fdd5264d9f29189\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\33e03cfc3266f1c59fdd5264d9f29189\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\1120ad0a9e850cfc0f67f0e774c3bc4a\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\1120ad0a9e850cfc0f67f0e774c3bc4a\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\84048b31ce02933fa098430bc5c9822a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\84048b31ce02933fa098430bc5c9822a\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:9:9-65
+activity#com.trtjk.health.app.view.activity.HomeActivity
+ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:launchMode
+		ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:18:13-44
+	android:theme
+		ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:17:13-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.trtjk.health.app.view.activity.UserListActivity
+ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:26:9-88
+	android:name
+		ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:26:19-85
+activity#com.trtjk.health.app.view.activity.UserDetailsActivity
+ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:27:9-91
+	android:name
+		ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:27:19-88
+uses-sdk
+INJECTED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\c42ef66976bdee3928f5aed5ce7efa2d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\c42ef66976bdee3928f5aed5ce7efa2d\AndroidManifest.xml:20:5-43
+MERGED from [com.trello:rxlifecycle-components:0.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\rxlifecycle-components-0.4.0.aar\4afc32e5e0ee5a3a2acbb740f6ba310c\AndroidManifest.xml:17:5-44
+MERGED from [com.trello:rxlifecycle-components:0.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\rxlifecycle-components-0.4.0.aar\4afc32e5e0ee5a3a2acbb740f6ba310c\AndroidManifest.xml:17:5-44
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\ae48784832a673616cc86ee1c8937f83\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\ae48784832a673616cc86ee1c8937f83\AndroidManifest.xml:21:5-23:78
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:v1.9.3] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-v1.9.3.aar\ecc08fff160a70a1510100248dbc5cf7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:v1.9.3] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-v1.9.3.aar\ecc08fff160a70a1510100248dbc5cf7\AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex:rxandroid:1.1.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\rxandroid-1.1.0.aar\48a0944905dbe6d136239110e3a9c856\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.1.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\rxandroid-1.1.0.aar\48a0944905dbe6d136239110e3a9c856\AndroidManifest.xml:19:5-43
+MERGED from [com.trello:rxlifecycle:0.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\rxlifecycle-0.4.0.aar\4285fc98eeedd0219cd73e5b55d69743\AndroidManifest.xml:17:5-44
+MERGED from [com.trello:rxlifecycle:0.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\rxlifecycle-0.4.0.aar\4285fc98eeedd0219cd73e5b55d69743\AndroidManifest.xml:17:5-44
+MERGED from [com.jakewharton.rxbinding:rxbinding:0.3.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\rxbinding-0.3.0.aar\3c5e233235dc0c70ca67f2354ef633b3\AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding:rxbinding:0.3.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\rxbinding-0.3.0.aar\3c5e233235dc0c70ca67f2354ef633b3\AndroidManifest.xml:6:5-44
+MERGED from [com.apkfuns.logutils:library:1.5.1.1] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\library-1.5.1.1.aar\d1cf391ff5ef42087f1c22d7e07fa237\AndroidManifest.xml:7:5-9:41
+MERGED from [com.apkfuns.logutils:library:1.5.1.1] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\library-1.5.1.1.aar\d1cf391ff5ef42087f1c22d7e07fa237\AndroidManifest.xml:7:5-9:41
+MERGED from [com.apkfuns.log2file:log2file:1.0.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\log2file-1.0.0.aar\19345aca7eac3ddb7e7258b369a8ab42\AndroidManifest.xml:7:5-9:41
+MERGED from [com.apkfuns.log2file:log2file:1.0.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\log2file-1.0.0.aar\19345aca7eac3ddb7e7258b369a8ab42\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\33e03cfc3266f1c59fdd5264d9f29189\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\33e03cfc3266f1c59fdd5264d9f29189\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\398ff9408296af1dabfb540b8fe06b89\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\398ff9408296af1dabfb540b8fe06b89\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\1120ad0a9e850cfc0f67f0e774c3bc4a\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\1120ad0a9e850cfc0f67f0e774c3bc4a\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\84048b31ce02933fa098430bc5c9822a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\84048b31ce02933fa098430bc5c9822a\AndroidManifest.xml:20:5-43
+INJECTED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\ae48784832a673616cc86ee1c8937f83\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.apkfuns.log2file:log2file:1.0.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\log2file-1.0.0.aar\19345aca7eac3ddb7e7258b369a8ab42\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [com.apkfuns.log2file:log2file:1.0.0] C:\Users\chao4_wang\.gradle\caches\transforms-1\files-1.1\log2file-1.0.0.aar\19345aca7eac3ddb7e7258b369a8ab42\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\AndroidStudioCode\TRTHealthApp\app\src\main\AndroidManifest.xml:2:1-29:12 reason: com.apkfuns.log2file requested WRITE_EXTERNAL_STORAGE

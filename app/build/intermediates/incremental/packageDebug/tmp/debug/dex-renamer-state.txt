@@ -1,0 +1,4 @@
+#Sun Apr 08 15:22:44 GMT+08:00 2018
+base.0=D\:\\AndroidStudioCode\\TRTHealthApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
